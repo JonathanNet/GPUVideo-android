@@ -46,7 +46,7 @@ Step 2. Add the dependency
 dependencies {
         implementation 'com.github.MasayukiSuda:GPUVideo-android:v0.1.2'
         // if apply video filter on ExoPlayer video
-        implementation 'com.google.android.exoplayer:exoplayer-core:2.15.1'
+        implementation 'com.google.android.exoplayer:exoplayer-core:2.18.1'
 }
 ```
 
